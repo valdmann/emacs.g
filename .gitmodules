@@ -1,6 +1,9 @@
 [borg]
 	pushDefault = locutus
 	collective = emacsg
+[submodule "airline-themes"]
+	path = lib/airline-themes
+	url = git@github.com:AnthonyDiGirolamo/airline-themes.git
 [submodule "auto-compile"]
 	path = lib/auto-compile
 	url = git@github.com:emacscollective/auto-compile.git
@@ -48,6 +51,9 @@
 [submodule "packed"]
 	path = lib/packed
 	url = git@github.com:emacscollective/packed.git
+[submodule "powerline"]
+	path = lib/powerline
+	url = git@github.com:milkypostman/powerline.git
 [submodule "transient"]
 	path = lib/transient
 	url = git@github.com:magit/transient.git

@@ -178,6 +178,10 @@
  (doom-themes-visual-bell-config)
  (doom-themes-org-config))
 
+(use-package airline-themes
+ :config
+ (load-theme 'airline-doom-one t))
+
 (progn ;     startup
   (message "Loading %s...done (%.3fs)" user-init-file
            (float-time (time-subtract (current-time)
