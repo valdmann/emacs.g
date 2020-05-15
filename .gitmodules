@@ -33,6 +33,9 @@
 [submodule "evil"]
 	path = lib/evil
 	url = git@github.com:emacs-evil/evil.git
+[submodule "evil-magit"]
+	path = lib/evil-magit
+	url = git@github.com:emacs-evil/evil-magit.git
 [submodule "ghub"]
 	path = lib/ghub
 	url = git@github.com:magit/ghub.git

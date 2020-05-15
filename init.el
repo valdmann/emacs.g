@@ -170,6 +170,8 @@
   :config
   (evil-mode 1))
 
+(use-package evil-magit)
+
 (use-package doom-themes
  :config
  (setq doom-themes-enable-bold t
