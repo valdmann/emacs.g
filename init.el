@@ -165,6 +165,11 @@
                 vc-ignore-dir-regexp
                 tramp-file-name-regexp)))
 
+(use-package evil
+  :load-path "lib/evil/lib"
+  :config
+  (evil-mode 1))
+
 (progn ;     startup
   (message "Loading %s...done (%.3fs)" user-init-file
            (float-time (time-subtract (current-time)
