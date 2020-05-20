@@ -54,6 +54,9 @@
 [submodule "ivy"]
 	path = lib/ivy
 	url = git@github.com:abo-abo/swiper.git
+[submodule "ivy-xref"]
+	path = lib/ivy-xref
+	url = git@github.com:alexmurray/ivy-xref.git
 [submodule "libgit"]
 	path = lib/libgit
 	url = git@github.com:magit/libegit2.git
