@@ -7,6 +7,9 @@
 [submodule "amx"]
 	path = lib/amx
 	url = git@github.com:DarwinAwardWinner/amx.git
+[submodule "annalist"]
+	path = lib/annalist
+	url = git@github.com:noctuid/annalist.el.git
 [submodule "auto-compile"]
 	path = lib/auto-compile
 	url = git@github.com:emacscollective/auto-compile.git
@@ -39,6 +42,9 @@
 [submodule "evil"]
 	path = lib/evil
 	url = git@github.com:emacs-evil/evil.git
+[submodule "evil-collection"]
+	path = lib/evil-collection
+	url = git@github.com:emacs-evil/evil-collection.git
 [submodule "evil-magit"]
 	path = lib/evil-magit
 	url = git@github.com:emacs-evil/evil-magit.git
