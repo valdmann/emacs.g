@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# key: qt-ns
+# --
+QT_BEGIN_NAMESPACE
+
+$0
+
+QT_END_NAMESPACE

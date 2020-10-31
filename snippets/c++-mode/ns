@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# key: ns
+# --
+namespace ${1:jv} {
+$0
+} // namespace $1
